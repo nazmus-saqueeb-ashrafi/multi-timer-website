@@ -762,3 +762,9 @@ footer .social a:hover {
     float: left;
   }
 }
+
+/* scroll lock */
+
+.scrolldis {
+  overflow: hidden;
+}
