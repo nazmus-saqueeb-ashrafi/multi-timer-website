@@ -260,7 +260,7 @@ nav ul li a {
   -webkit-text-fill-color: transparent;
 }
 .intro-text p {
-  margin-top: 5px;
+  margin-top: 10px;
   font-size: 22px;
   color: #585772;
 }
@@ -638,7 +638,7 @@ body p {
   -webkit-text-fill-color: transparent;
 }
 .intro-text2 p {
-  margin-top: 5px;
+  margin-top: 10px;
   font-size: 22px;
   color: #585772;
   text-align: center;
@@ -715,22 +715,18 @@ footer .social a:hover {
   transition: all, 0.3s;
 }
 
-.linked {
-  background-color: #1e83ae;
-  font-size: 1.2em;
-  width: 20%;
-}
+/* insert more social here */
 
 .face {
   background-color: #3d5b94;
   font-size: 1.2em;
-  width: 20%;
+  width: 30%;
 }
 
 .tweet {
   background-color: #3dacdd;
   font-size: 1.2em;
-  width: 20%;
+  width: 30%;
 }
 
 .support {

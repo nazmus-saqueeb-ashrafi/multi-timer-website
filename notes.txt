@@ -1,1 +1,6 @@
 
+.linked {
+  background-color: #1e83ae;
+  font-size: 1.2em;
+  width: 20%;
+}
