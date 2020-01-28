@@ -1,9 +1,1 @@
-.cta-select {
-  border: 2px solid #c36cbb;
-  background: transparent;
-  color: #c36cbb;
-  width: 150px;
-  height: 50px;
-  cursor: pointer;
-  font-size: 16px;
-}
+
