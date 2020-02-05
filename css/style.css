@@ -764,3 +764,31 @@ footer .social a:hover {
 .scrolldis {
   overflow: hidden;
 }
+
+/* Policy page */
+
+.container-policy h2 {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 50px;
+  font-size: 44px;
+  font-weight: 600;
+  background: linear-gradient(to right, #494964, #6f6f89);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.last-text {
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width: 864px) {
+  .container-policy p {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .container-policy h2 {
+    font-size: 34px;
+  }
+}
